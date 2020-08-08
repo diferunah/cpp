@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
     resultado = (sqrt (x));
 
     cout << endl;
-    cout << "La raiz cudrada de " << x << " es: " << resultado;
+    cout << "La raiz cuadrada de " << x << " es: " << resultado;
 
     return 0;
 }
